@@ -1,0 +1,177 @@
+{
+  "admissionInquiries": [
+    {
+      "id": 1,
+      "name": "Test User",
+      "phone": "123",
+      "email": "t@e.com",
+      "currentClass": "Class 11",
+      "course": "NEET",
+      "message": "hi",
+      "createdAt": "2026-03-22T16:15:45.081Z"
+    },
+    {
+      "id": 2,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 11",
+      "course": "12th Science",
+      "message": ".",
+      "createdAt": "2026-03-22T16:19:39.858Z"
+    },
+    {
+      "id": 3,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 10",
+      "course": "12th Science",
+      "message": "///",
+      "createdAt": "2026-03-22T17:30:16.667Z"
+    },
+    {
+      "id": 4,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 12",
+      "course": "JEE Main & Advanced",
+      "message": "nnnnnnnnnnnn",
+      "createdAt": "2026-03-22T17:36:31.945Z"
+    },
+    {
+      "id": 5,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 10",
+      "course": "12th Science",
+      "message": "noo",
+      "createdAt": "2026-03-22T17:45:01.449Z"
+    },
+    {
+      "id": 6,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 11",
+      "course": "12th Science",
+      "message": "",
+      "createdAt": "2026-03-22T17:52:00.465Z"
+    },
+    {
+      "id": 7,
+      "name": "Vaibhav More",
+      "phone": "9529069217",
+      "email": "vaibhavmore96kp@gmail.com",
+      "currentClass": "Class 11",
+      "course": "12th Science",
+      "message": "xxzzzzzzzad",
+      "createdAt": "2026-03-23T04:42:46.258Z"
+    },
+    {
+      "id": 8,
+      "name": "aryan salve",
+      "phone": "89955688",
+      "email": "aryansalve@gmail.com",
+      "currentClass": "Class 12",
+      "course": "JEE Main & Advanced",
+      "message": "no",
+      "createdAt": "2026-03-23T08:54:19.511Z"
+    },
+    {
+      "id": 9,
+      "name": "Aarav Patil",
+      "phone": "+91 98765 11111",
+      "email": "aarav.patil@example.com",
+      "currentClass": "Class 11",
+      "course": "JEE Main & Advanced",
+      "message": "I want to attend 2 demo classes. Please share batch timings.",
+      "createdAt": "2026-03-23T08:55:11.250Z"
+    },
+    {
+      "id": 10,
+      "name": "Sakshi More",
+      "phone": "+91 98765 22222",
+      "email": "sakshi.more@example.com",
+      "currentClass": "Class 12",
+      "course": "NEET",
+      "message": "Need fee structure and scholarship test date.",
+      "createdAt": "2026-03-23T08:55:11.250Z"
+    },
+    {
+      "id": 11,
+      "name": "Rahul Sharma",
+      "phone": "+91 98765 33333",
+      "email": "rahul.sharma@example.com",
+      "currentClass": "Class 12",
+      "course": "12th Science",
+      "message": "Interested in joining weekend batches for physics and chemistry.",
+      "createdAt": "2026-03-23T08:55:11.250Z"
+    },
+    {
+      "id": 12,
+      "name": "abhay mali",
+      "phone": "955853565",
+      "email": "abhaymali@gmail.com",
+      "currentClass": "Class 11",
+      "course": "12th Science",
+      "message": "noo",
+      "createdAt": "2026-03-24T18:27:41.375Z"
+    },
+    {
+      "id": 13,
+      "name": "rahul sharma",
+      "phone": "955853565",
+      "email": "rahulsharma@gmail.com",
+      "currentClass": "Class 11",
+      "course": "JEE Main & Advanced",
+      "message": "nooo",
+      "createdAt": "2026-04-01T12:50:20.548Z"
+    },
+    {
+      "id": 14,
+      "name": "suyash sharma",
+      "phone": "784587555",
+      "email": "suyashsharma@gmail.com",
+      "currentClass": "Class 10",
+      "course": "JEE Main & Advanced",
+      "message": "no",
+      "createdAt": "2026-04-01T15:08:24.892Z"
+    }
+  ],
+  "contactMessages": [],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "passwordHash": "d9bcce27b94cb2e46f25ef0aecdbd41c:7d2019dbbc9368031ccdd0c090d063f1e721f9aa81a713128030b98dba966d141a9cd4742a3fdbb3a2719d6d3b889e4604f6e6e2f65cfb3f0e6533cc7b1da0b0",
+      "role": "Admin",
+      "fullName": "Administrator",
+      "email": "admin@shreeacademy.com",
+      "createdAt": "2026-03-23T04:29:24.923Z"
+    },
+    {
+      "id": 2,
+      "username": "student",
+      "passwordHash": "83368a70c55bea9db0dfba1db592969d:f49833161b6612592cb121427005047dda4996afed2ed01f1c3884166c99cedb389edbbb3337af9d0328e98bf735198f28d5c89ec06ca0e669b258630915b11a",
+      "role": "Student",
+      "fullName": "Demo Student",
+      "email": "student@example.com",
+      "createdAt": "2026-03-23T04:29:24.923Z"
+    },
+    {
+      "id": 3,
+      "username": "teacher",
+      "passwordHash": "fa1321c7f61e8b87834322d07f5b89e7:4c43e439de3388e1d2144df60d69bac70e7904c50d37f3bfc79c1fe229c73b5532c126a4c75955cc282a299c0dd388bb8b2bb43be08256f52f812916f42e6e9b",
+      "role": "Teacher",
+      "fullName": "Demo Teacher",
+      "email": "teacher@example.com",
+      "createdAt": "2026-03-23T04:29:24.923Z"
+    }
+  ],
+  "nextAdmissionId": 15,
+  "nextContactId": 1,
+  "nextUserId": 4
+}

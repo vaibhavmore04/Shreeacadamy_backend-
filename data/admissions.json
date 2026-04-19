@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "vijay khade",
+    "email": "vijaykhade@gmail.com",
+    "phone": "9988774455",
+    "course": "JEE Main & Advanced",
+    "message": "ooooo",
+    "status": "Pending",
+    "createdAt": "2026-04-06T08:20:22.916Z"
+  },
+  {
+    "id": 2,
+    "name": "pushkar",
+    "email": "pushkar@gmail.com",
+    "phone": "2102652332",
+    "course": "JEE Main & Advanced",
+    "message": "...",
+    "status": "Pending",
+    "createdAt": "2026-04-06T08:28:02.063Z"
+  }
+]
